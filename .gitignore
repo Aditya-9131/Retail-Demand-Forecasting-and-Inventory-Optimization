@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Outputs (to avoid pushing large or generated files)
+data/
+output/
+*.csv
+*.png
+*.txt
+project_output.txt
+project_err.txt
+project_out.txt
+project_err_utf8.txt
+project_out_utf8.txt
+streamlit_out.txt
+streamlit_out2.txt
+streamlit_out3.txt
+sm_err.txt
+sm_err_utf8.txt
+out.txt
+err.txt
+test.txt
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# IDEs
+.vscode/
+.idea/
